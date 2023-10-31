@@ -9,7 +9,7 @@ const FooterBottom = () => {
           <span className="text-md mr-[1px] mt-[2px] md:mt-0 text-center hidden md:inline-flex">
             <AiOutlineCopyright />
           </span>
-          Copyright 2023 | Orebi shopping | All Rights Reserved | AWP Mini Project
+          Copyright 2023 | Orebi shopping | All Rights Reserved | AWP Mini Project | Tanish(N015), Dhruvika(N016), Ishaan(N019)
         </p>
       </div>
     </div>
